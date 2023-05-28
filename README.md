@@ -25,7 +25,7 @@ To run the A.I Assistant project locally, follow these steps:
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/ai-assistant-clone.git
+   git clone https://github.com/TusharArya/A.I.-Assistant.git
    ```
 3. **Install Dependencies**: Navigate to the cloned repository and install the required dependencies by running:
    ```
